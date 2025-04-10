@@ -21,15 +21,15 @@ proyecto1_Freelancer/ ├── index.html ├── css/ │ ├── normaliz
 
 ## 📷 Captura de pantalla
 
-*(Puedes subir una imagen del sitio funcionando si lo deseas)*
+### Página de inicio
+![Inicio](img/HomePage.JPG)
 
 ## 🛠️ Cómo usar
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/proyecto-freelancer.git
-
+   git clone https://github.com/YamilGZ/proyecto-freelancer.git
    Abre index.html en tu navegador web.
 
-   💡 Autor
-Desarrollado por Yamil G. Zaracho R. (YamilGZ)
+## 💡 Autor
+Desarrollado por Yamil G. Zaracho R. (YamilGZ).
